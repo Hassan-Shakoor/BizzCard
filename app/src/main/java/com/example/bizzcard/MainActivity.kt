@@ -120,7 +120,7 @@ private fun CreateInfo() {
             text = "Adam Charles",
             style = MaterialTheme.typography.titleLarge,
             color = MaterialTheme.colorScheme.primary
-            //kjhgdjksg hassanb shawqkejlwjihn
+            //kjhgdjksgjhegjrf
         )
         Text(
             text = "@1221323abs", modifier = Modifier.padding(5.dp),
