@@ -160,8 +160,6 @@ private fun Content() {
             border = BorderStroke(width = 2.dp, color = Color.LightGray)
         ) {
             Portfolio(data = listOf("Project1", "Project2", "Project3", "Project4", "Project5", "Project6"))
-            //Log.d////
-
         }
     }
 }
